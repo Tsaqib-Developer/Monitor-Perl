@@ -1,11 +1,11 @@
 <div class="navbar bg-base-100 sticky top-0 z-[100] text-primary-content">
     <div class="flex-1">
-        <a href="{{ url('') }}" class="btn btn-ghost normal-case text-xl">Denny</a>
+        <a href="{{ url('') }}" class="btn btn-ghost normal-case text-xl">Kelompok</a>
     </div>
     <div class="flex-none">
         <ul class="menu menu-horizontal px-1 hidden lg:flex content-start items-center gap-4">
-            <li><a href="{{ url('projects') }}">Project</a></li>
-            <li><a href="{{ url('#footer') }}">Contact</a></li>
+            <li><a href="{{ url('projects') }}">Anggota</a></li>
+            <li><a href="{{ url('#footer') }}">Sejarah Perl</a></li>
         </ul>
         <div class="dropdown dropdown-end">
             <label tabindex="0" class="btn btn-ghost lg:hidden">

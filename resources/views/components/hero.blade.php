@@ -8,7 +8,7 @@
             </div>
             <div class="lg:w-3/4 mt-6 sm:mt-12 px-4 lg:px-0">
                 <h2 class="text-lg lg:text-3xl font-semibold text-primary-content">
-                    Hello Buds, I am <span class="text-primary">Denny</span>
+                    Kami dari kelompok 10 <span class="text-primary">Perl</span>
                 </h2>
                 <p class="font-medium text-sm lg:text-xl text-gray">Full-Stack Developer</p>
                 <p class="py-6 text-sm lg:text-md">
